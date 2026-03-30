@@ -1,4 +1,4 @@
-# Future Resume - 이은채
+# 🚀 Future Resume - 이은채
 <p align="center">
   <img src="IMG_3216.jpeg" width="200"/>
 </p>
