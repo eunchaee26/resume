@@ -108,7 +108,7 @@
 
 ### 📊 Kaggle Practice
 
-#### Titanic Survival Prediction (2024.06)
+#### 🚢 Titanic Survival Prediction (2024.06)
 - Kaggle 데이터를 활용한 생존자 예측 분석 수행
 - 데이터 전처리 및 결측치 처리 경험
 - 머신러닝 모델을 적용하여 예측 정확도 개선
