@@ -36,7 +36,7 @@
 
 - **Email** : kiwi1026@naver.com
 
-- **GitHub**: <https://github.com/eunchaee26>
+- **GitHub**: [My Github] (https://github.com/eunchaee26)
 
 ## 🎓 Education
 
