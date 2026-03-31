@@ -93,7 +93,7 @@
 - 검색 데이터 기반 사용자 행동 데이터 수집 및 정제 수행
 - 데이터 전처리 및 노이즈 제거를 통해 분석 가능한 데이터셋 구축
 - 키워드 및 사용자 의도(Intent) 분석을 통한 데이터 구조화 작업 수행
-- 데이터 시각화를 통해 트렌드 인사이트 도출 및 리포트 작성
+- 데이터 시각화를 통해 트렌드 **인사이트 도출** 및 리포트 작성
 
 
 ## 🚀 Projects
@@ -117,8 +117,8 @@
 ### 👥 Team Project
 
 #### 📊 Customer Churn Prediction (3인 팀) (2024.09 ~ 2024.11)
-- 데이터 전처리 및 Feature Engineering 담당
-- scikit-learn을 활용한 이탈 예측 모델(Logistic Regression) 구현
+- 데이터 전처리 및 **Feature Engineering** 담당
+- **scikit-learn**을 활용한 이탈 예측 모델(Logistic Regression) 구현
 - 모델 결과 시각화를 통해 서비스 개선 인사이트 도출 
 
 ## 📜 Certifications
